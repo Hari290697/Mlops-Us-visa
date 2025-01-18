@@ -9,3 +9,18 @@
 -Autocomplete tool: Tabnine
 -MongoDB: https://account.mongodb.com/account/login
 -Slide: https://docs.google.com/presentation/d/1A_3ne0igLvWSIZqYDFcpT41hkxdj55bDy889Bi9G0ZQ/edit?usp=sharing
+
+
+## How to run?
+
+"""git commands 
+conda create -n visa python==3.8 -y
+"""
+
+"""git commands
+conda activate visa
+"""
+
+"""git command
+pip install -r requirements.txt
+"""
